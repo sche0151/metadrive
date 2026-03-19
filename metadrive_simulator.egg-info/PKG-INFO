@@ -1,4 +1,4 @@
-Metadata-Version: 2.1
+Metadata-Version: 2.4
 Name: metadrive-simulator
 Version: 0.4.3
 Summary: An open-ended driving simulator with infinite scenes
@@ -46,6 +46,16 @@ Requires-Dist: panda3d-gltf<1.0,>=0.13; python_version >= "3.8"
 Requires-Dist: gymnasium>=0.28; python_version >= "3.8"
 Requires-Dist: numpy>=1.21.6; python_version >= "3.8"
 Requires-Dist: opencv-python; python_version >= "3.8"
+Dynamic: author
+Dynamic: author-email
+Dynamic: description
+Dynamic: description-content-type
+Dynamic: home-page
+Dynamic: license
+Dynamic: license-file
+Dynamic: provides-extra
+Dynamic: requires-dist
+Dynamic: summary
 
 <br>
 
